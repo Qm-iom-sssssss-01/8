@@ -34,5 +34,11 @@
         "key": "Takavar",
         "expirydate": "14-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d4013e2d0dcae927",
+        "key": "MmDi",
+        "expirydate": "25-02-2026",
+        "Allowoffline": false
     }
 ]
