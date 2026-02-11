@@ -24,18 +24,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "54d62dc7d3a11ae8",
-        "key": "Testpanel",
-        "expirydate": "14-02-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "5216240a598547e9",
-        "key": "Takavar",
-        "expirydate": "14-02-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "d4013e2d0dcae927",
         "key": "MmDi",
         "expirydate": "25-02-2026",
@@ -45,12 +33,6 @@
         "device_id": "52f503a790b89471",
         "key": "Yahya",
         "expirydate": "25-02-2030",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "70b66ccd703a2ab4",
-        "key": "1horse",
-        "expirydate": "12-02-2026",
         "Allowoffline": false
     }
 ]
