@@ -40,5 +40,11 @@
         "key": "MmDi",
         "expirydate": "25-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "52f503a790b89471",
+        "key": "Yahya",
+        "expirydate": "25-02-2030",
+        "Allowoffline": false
     }
 ]
