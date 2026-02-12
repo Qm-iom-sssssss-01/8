@@ -52,5 +52,11 @@
         "key": "vihan",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5216240a598547e9",
+        "key": "Takavar",
+        "expirydate": "20-02-9999",
+        "Allowoffline": false
     }
 ]
