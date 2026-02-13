@@ -64,5 +64,11 @@
         "key": "S4TOP",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fd1005f8900e767a",
+        "key": "mordad",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
     }
 ]
