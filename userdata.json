@@ -82,5 +82,11 @@
         "key": "BENI",
         "expirydate": "29-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2acf7f298ca949af",
+        "key": "BENYAMIN",
+        "expirydate": "29-02-2026",
+        "Allowoffline": false
     }
 ]
