@@ -76,5 +76,11 @@
         "key": "amir3",
         "expirydate": "13-03-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f4ce64a82b12518d",
+        "key": "BENI",
+        "expirydate": "29-02-2026",
+        "Allowoffline": false
     }
 ]
