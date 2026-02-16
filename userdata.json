@@ -22,5 +22,11 @@
         "key": "mordad",
         "expirydate": "13-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "706959d0d0c0e504",
+        "key": "Arman",
+        "expirydate": "13-03-9999",
+        "Allowoffline": false
     }
 ]
