@@ -28,5 +28,11 @@
         "key": "Arman",
         "expirydate": "13-03-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "539d03bae22ea2e3",
+        "key": "AliWer",
+        "expirydate": "28-02-2026",
+        "Allowoffline": false
     }
 ]
